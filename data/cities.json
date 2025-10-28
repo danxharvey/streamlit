@@ -1,0 +1,22 @@
+[
+  {"city": "Edinburgh", "lat": 55.9533, "lon": -3.1883},
+  {"city": "Galway", "lat": 53.2707, "lon": -9.0568},
+  {"city": "Dublin", "lat": 53.3498, "lon": -6.2603},
+  {"city": "Rhode Island", "lat": 41.8240, "lon": -71.4128},
+  {"city": "Sheffield", "lat": 53.3811, "lon": -1.4701},
+  {"city": "Swansea", "lat": 51.6214, "lon": -3.9436},
+  {"city": "London", "lat": 51.5074, "lon": -0.1278},
+  {"city": "Guernsey", "lat": 49.4482, "lon": -2.5895},
+  {"city": "Oslo", "lat": 59.9139, "lon": 10.7522},
+  {"city": "Paris", "lat": 48.8566, "lon": 2.3522},
+  {"city": "Milan", "lat": 45.4642, "lon": 9.1900},
+  {"city": "Madrid", "lat": 40.4168, "lon": -3.7038},
+  {"city": "Frankfurt", "lat": 50.1109, "lon": 8.6821},
+  {"city": "Chicago", "lat": 41.8781, "lon": -87.6298},
+  {"city": "Bangalore", "lat": 12.9716, "lon": 77.5946},
+  {"city": "Hyderabad", "lat": 17.3850, "lon": 78.4867},
+  {"city": "Hong Kong", "lat": 22.3193, "lon": 114.1694},
+  {"city": "Sydney", "lat": -33.8688, "lon": 151.2093},
+  {"city": "Grimsby", "lat": 53.5654, "lon": -0.0755},
+  {"city": "Newcastle", "lat": 54.9783, "lon": -1.6178}
+]

@@ -1,0 +1,8 @@
+[
+    {"title": "Complete Linux Upgrade", "description": "Configure browser settings for testing light/dark modes.", "emoji": "\u2699"},
+    {"title": "API Authorisation", "description": "Standalone FastAPI authorisation module with JWT tokenisation.", "emoji": "\ud83d\udd10"},
+    {"title": "Data & ML Demos", "description": "Data pipelines, ETL demos and performance visualizations.", "emoji": "\ud83d\udcca"},
+    {"title": "LLM Integration", "description": "Integrate LLM technology into Streamlit and prepare for RAG Development.", "emoji": "\ud83d\udcac"},
+    {"title": "Showcase Microservices", "description": "Deployable FastAPI / Streamlit projects demonstrating practical API skills.", "emoji": "\ud83d\udda5\ufe0f"},
+    {"title": "AI Recruitment Tool", "description": "Smart CV analysis and matching with multi-agent feedback.", "emoji": "\ud83e\udd16"}
+]
