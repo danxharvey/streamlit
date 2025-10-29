@@ -3,8 +3,8 @@ import pandas as pd
 import math
 
 # Neuron 5 logo
-st.logo('data/favicon.ico', size="large", link=None, icon_image=None)
-st.image('data/bg_logo.png', width=400)  # width in pixels#
+st.logo('img/favicon.ico', size="large", link=None, icon_image=None)
+st.image('img/bg_logo.png', width=400)  # width in pixels#
 
 # Describe page
 st.title(':blue[Mortgage Repayment Calculator]')
