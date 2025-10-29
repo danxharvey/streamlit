@@ -1,0 +1,31 @@
+[
+  {"from": "Swansea", "to": "Park Street, London", "lat_from": 51.6214, "lon_from": -3.9436, "lat_to": 51.5074, "lon_to": -0.1278, "color": [0,128,200]},
+  {"from": "Swansea", "to": "South Gyle, Edinburgh", "lat_from": 51.6214, "lon_from": -3.9436, "lat_to": 55.9336, "lon_to": -3.3074, "color": [0,128,200]},
+  {"from": "Swansea", "to": "East Kilbride", "lat_from": 51.6214, "lon_from": -3.9436, "lat_to": 55.7640, "lon_to": -4.1769, "color": [0,128,200]},
+  {"from": "Swansea", "to": "Leeds", "lat_from": 51.6214, "lon_from": -3.9436, "lat_to": 53.8008, "lon_to": -1.5491, "color": [0,128,200]},
+  {"from": "Swansea", "to": "Hyderabad", "lat_from": 51.6214, "lon_from": -3.9436, "lat_to": 17.3850, "lon_to": 78.4867, "color": [0,128,200]},
+
+  {"from": "Sheffield", "to": "Hong Kong", "lat_from": 53.3811, "lon_from": -1.4701, "lat_to": 22.3193, "lon_to": 114.1694, "color": [128,0,200]},
+  {"from": "Sheffield", "to": "Chicago", "lat_from": 53.3811, "lon_from": -1.4701, "lat_to": 41.8781, "lon_to": -87.6298, "color": [128,0,200]},
+
+  {"from": "Sydney", "to": "Canberra", "lat_from": -33.8688, "lon_from": 151.2093, "lat_to": -35.2809, "lon_to": 149.1300, "color": [200,100,0]},
+  {"from": "Sydney", "to": "Melbourne", "lat_from": -33.8688, "lon_from": 151.2093, "lat_to": -37.8136, "lon_to": 144.9631, "color": [200,100,0]},
+
+  {"from": "Dublin", "to": "Grimsby", "lat_from": 53.3498, "lon_from": -6.2603, "lat_to": 53.5654, "lon_to": -0.0755, "color": [0,200,120]},
+  {"from": "Dublin", "to": "Oslo", "lat_from": 53.3498, "lon_from": -6.2603, "lat_to": 59.9139, "lon_to": 10.7522, "color": [0,200,120]},
+  {"from": "Dublin", "to": "La Defense, Paris", "lat_from": 53.3498, "lon_from": -6.2603, "lat_to": 48.8924, "lon_to": 2.2360, "color": [0,200,120]},
+  {"from": "Dublin", "to": "Milan", "lat_from": 53.3498, "lon_from": -6.2603, "lat_to": 45.4642, "lon_to": 9.1900, "color": [0,200,120]},
+  {"from": "Dublin", "to": "Madrid", "lat_from": 53.3498, "lon_from": -6.2603, "lat_to": 40.4168, "lon_to": -3.7038, "color": [0,200,120]},
+  {"from": "Dublin", "to": "Frankfurt", "lat_from": 53.3498, "lon_from": -6.2603, "lat_to": 50.1109, "lon_to": 8.6821, "color": [0,200,120]},
+
+  {"from": "Galway", "to": "Rhode Island", "lat_from": 53.2707, "lon_from": -9.0568, "lat_to": 41.8240, "lon_to": -71.4128, "color": [255,0,0]},
+  {"from": "Galway", "to": "Bangalore", "lat_from": 53.2707, "lon_from": -9.0568, "lat_to": 12.9716, "lon_to": 77.5946, "color": [255,0,0]},
+  {"from": "Galway", "to": "Hoboken", "lat_from": 53.2707, "lon_from": -9.0568, "lat_to": 40.7433, "lon_to": -74.0288, "color": [255,0,0]},
+  {"from": "Galway", "to": "London", "lat_from": 53.2707, "lon_from": -9.0568, "lat_to": 51.5074, "lon_to": -0.1278, "color": [255,0,0]},
+  {"from": "Galway", "to": "Paris", "lat_from": 53.2707, "lon_from": -9.0568, "lat_to": 48.8566, "lon_to": 2.3522, "color": [255,0,0]},
+  {"from": "Galway", "to": "Singapore", "lat_from": 53.2707, "lon_from": -9.0568, "lat_to": 1.3521, "lon_to": 103.8198, "color": [255,0,0]},
+
+  {"from": "Edinburgh", "to": "Hamburg", "lat_from": 55.9533, "lon_from": -3.1883, "lat_to": 53.5511, "lon_to": 9.9937, "color": [255,165,0]},
+  {"from": "Edinburgh", "to": "Newcastle", "lat_from": 55.9533, "lon_from": -3.1883, "lat_to": 54.9783, "lon_to": -1.6178, "color": [255,165,0]},
+  {"from": "Edinburgh", "to": "Kirkwall", "lat_from": 55.9533, "lon_from": -3.1883, "lat_to": 58.9845, "lon_to": -2.9551, "color": [255,165,0]}
+]

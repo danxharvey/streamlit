@@ -4,8 +4,8 @@ import pydeck as pdk
 import pandas as pd
 
 # Neuron 5 logo
-st.logo('data/favicon.ico', size='large', link=None, icon_image=None)
-st.image('data/bg_logo.png', width=400)
+st.logo('img/favicon.ico', size='large', link=None, icon_image=None)
+st.image('img/bg_logo.png', width=400)
 
 # Describe page
 st.title(':blue[Purpose of Codebase]')
