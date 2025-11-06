@@ -1,17 +1,21 @@
 import streamlit as st
 import pandas as pd
 import math
+from components.footer import show_footer
+from components.sidebar import show_sidebar
+from components.header import show_header
 
-# Neuron 5 logo
-st.logo('img/favicon.ico', size="large", link=None, icon_image=None)
-st.image('img/bg_logo.png', width=400)  # width in pixels#
 
-# Describe page
-st.title(':blue[Mortgage Repayment Calculator]')
-st.markdown('**Example of an interactive and dynamic front-end allowing user to calculate mortgage repayments.**')
+# ---- Sidebar ----
+show_sidebar()
 
+# ---- Header ----
+show_header(page_title='Neuron 5 - Dynamic Calculator',
+            title = 'Mortgage Repayment Calculator',
+            subtitle = 'Example of an interactive and dynamic front-end allowing user to calculate mortgage repayments.')
+
+# ---- Main content ----
 # Gather user inputs
-st.write('&nbsp;')
 st.header('Loan Data', divider='red')
 col1, col2 = st.columns(2)
 home_value = col1.number_input('Home Value (£)', min_value=0, value=500000)

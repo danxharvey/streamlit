@@ -1,18 +1,20 @@
 # Import libraries
 import streamlit as st
-import pydeck as pdk
 import pandas as pd
+from components.footer import show_footer
+from components.sidebar import show_sidebar
+from components.header import show_header
 
-# Neuron 5 logo
-st.logo('img/favicon.ico', size='large', link=None, icon_image=None)
-st.image('img/bg_logo.png', width=400)
 
-# Describe page
-st.title(':blue[Purpose of Codebase]')
-st.markdown('**Deployable testing hub for work samples and product development ideas.**')
+# ---- Sidebar ----
+show_sidebar()
 
-# Gather user inputs
-st.write('&nbsp;')
+# ---- Header ----
+show_header(page_title='Neuron 5 - Home',
+            title = 'Purpose of Codebase',
+            subtitle = 'Deployable testing hub for work samples and product development ideas.')
+
+# ---- Main content -----
 st.header('What is currently planned?', divider='red')
 
 # Load plans array from json
@@ -36,3 +38,6 @@ for i, (_, plan) in enumerate(df.iterrows()):
             <p style="color:#333; margin-top:5px">{plan['description']}</p>
         </div>
         """, unsafe_allow_html=True)
+
+# ---- Footer ----
+show_footer()
